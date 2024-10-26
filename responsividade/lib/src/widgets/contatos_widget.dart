@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../blocs/bloc.dart';
-import '../models/contato_model.dart';
-import '../widgets/contato_widget.dart';
+import '../models/numero_model.dart';
+import 'widget.dart';
 
 class ContatosWidget extends StatelessWidget {
   String numeroAtual = '';

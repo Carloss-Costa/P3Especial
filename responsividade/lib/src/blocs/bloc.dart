@@ -1,6 +1,6 @@
 import 'validators.dart';
 import 'dart:async';
-import '../models/contato_model.dart';
+import '../models/numero_model.dart';
 
 class Bloc with Validators {
 //streams de validação

@@ -1,4 +1,4 @@
-import 'package:responsividade/src/tela/contatos_tela.dart';
+import 'package:responsividade/src/tela/tela.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
